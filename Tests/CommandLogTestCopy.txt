@@ -1,0 +1,6 @@
+{"command":"add", "book":{"id":1, "name":"Python", "price":100, "qty":10}}
+{"command":"add", "book":{"id":2, "name":"Java", "price":300, "qty":10}}
+{"command":"add", "book":{"id":3, "name":"C", "price":400, "qty":10}}
+{"command":"update_price", "book":{"id":1, "name":"Python", "price":500, "qty":10}}
+{"command":"update_qty", "book":{"id":2, "name":"Java", "price":300, "qty":0}}
+{"command":"sell", "book":{"id":3, "name":"C", "price":400, "qty":9}}

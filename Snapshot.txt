@@ -1,0 +1,4 @@
+{"id":1, "name":"Python", "price":100, "qty":30}
+{"id":2, "name":"Java", "price":300, "qty":0}
+{"id":3, "name":"C", "price":400, "qty":5}
+{"id":4, "name":"D", "price":500, "qty":120}
